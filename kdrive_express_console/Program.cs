@@ -23,8 +23,8 @@ namespace kdrive_express_console
         // set at least one of the following to true
         // depending on the interface that you are using
         // the default is USB
-        static bool usingIP = false;
-        static bool usingUSB = true;
+        static bool usingIP = true;
+        static bool usingUSB = false;
         static bool usingTinySerial = false;
 
         enum GA

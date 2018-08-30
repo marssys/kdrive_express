@@ -35,9 +35,8 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="kdriveExpress_dotnet, Version=14.5.5568.21709, Culture=neutral, PublicKeyToken=5c344a5a3e51e750, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\bin\Visual Studio 12 2013\kdriveExpress_dotnet.dll</HintPath>
+    <Reference Include="kdriveExpress_dotnet">
+      <HintPath>..\..\..\..\bin\Win32\kdriveExpress_dotnet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

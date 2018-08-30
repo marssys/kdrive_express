@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="kdriveExpress_dotnet">
-      <HintPath>..\bin\Visual Studio 12 2013\kdriveExpress_dotnet.dll</HintPath>
+      <HintPath>..\..\..\..\bin\Win32\kdriveExpress_dotnet.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />

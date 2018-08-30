@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kdrive_express_console", "kdrive_express_console\kdrive_express_console_vs120.csproj", "{6872A84B-7B76-48AC-976A-7F40F249E4E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kdrive_express_license", "kdrive_express_license\kdrive_express_license_vs120.csproj", "{FCA4F242-1979-42D8-8812-F0BB22921DFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kdrive_express_services", "kdrive_express_services\kdrive_express_services_vs120.csproj", "{CD3BA4DF-D3EA-4997-B570-551596C5BF53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kdrive_express_tunneling_enumeration", "kdrive_express_tunneling_enumeration\kdrive_express_tunneling_enumeration_vs120.csproj", "{07499C8F-C675-4385-9E73-E1C5C5A01B1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6872A84B-7B76-48AC-976A-7F40F249E4E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6872A84B-7B76-48AC-976A-7F40F249E4E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6872A84B-7B76-48AC-976A-7F40F249E4E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6872A84B-7B76-48AC-976A-7F40F249E4E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCA4F242-1979-42D8-8812-F0BB22921DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCA4F242-1979-42D8-8812-F0BB22921DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCA4F242-1979-42D8-8812-F0BB22921DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCA4F242-1979-42D8-8812-F0BB22921DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD3BA4DF-D3EA-4997-B570-551596C5BF53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD3BA4DF-D3EA-4997-B570-551596C5BF53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD3BA4DF-D3EA-4997-B570-551596C5BF53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD3BA4DF-D3EA-4997-B570-551596C5BF53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07499C8F-C675-4385-9E73-E1C5C5A01B1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07499C8F-C675-4385-9E73-E1C5C5A01B1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07499C8F-C675-4385-9E73-E1C5C5A01B1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07499C8F-C675-4385-9E73-E1C5C5A01B1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
